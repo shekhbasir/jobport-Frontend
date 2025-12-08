@@ -1,0 +1,97 @@
+*{
+  margin: 0%;
+  padding:0%;
+  box-sizing: border-box;
+}
+.parent{
+  height: 80px;
+  width: 100vw;
+}
+
+.lefts1{
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.bas1{
+  color: black;
+
+}
+.bas2{
+  color: red;
+}
+.rights1{
+  display: flex;
+  gap:30px;
+  margin-right: 50px;
+}
+
+.ham1{
+  height: 180px !important;
+  width: 300px !important;
+  cursor: pointer;
+}
+.niche{
+  margin: 20px;
+}
+
+.hampar{
+  display: flex;
+  margin: 10px;
+}
+.lam1{
+  margin-left: 75px;
+}
+
+.fal{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.fal1{
+   display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 15px;
+}
+.jam{
+  font-size: 20px;
+  margin: 10px;
+  font-weight: 400;
+  margin-left: 20px;
+}
+.bt1{
+  margin-right: 20px;
+  height: 33px;
+  width: 70px;
+  background-color: #f3ebeb;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.bt2{
+  height: 33px;
+  width: 70px;
+  background-color: #6732e3;
+  border-radius: 10px;
+  cursor: pointer;
+}
+:hover.bt1{
+  background-color: #ddcece;
+}
+
+:hover.bt2{
+   background-color: #4917c0;
+}
+.sarakam{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  font-weight: 600;
+}
+.bas3{
+  font-size: 17px;
+  cursor: pointer;
+}
