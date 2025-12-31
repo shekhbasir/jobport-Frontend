@@ -87,6 +87,7 @@ function Navbar() {
     </>
   );
 }
+
 export default Navbar;
 
 //here i am going to implemeting the code  for the ternery operator
